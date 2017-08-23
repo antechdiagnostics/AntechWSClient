@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://dev.antechdiagnostics.com/service/services?wsdl" uri="wsdl/dev.antechdiagnostics.com/service/services.wsdl"/>
+    <system systemId="https://dev.antechdiagnostics.com:443/service/services?xsd=1" uri="wsdl/dev.antechdiagnostics.com_443/service/services.xsd_1.xsd"/>
+    <system systemId="https://dev.antechdiagnostics.com:443/service/services?xsd=2" uri="wsdl/dev.antechdiagnostics.com_443/service/services.xsd_2.xsd"/>
+    <system systemId="https://dev.antechdiagnostics.com:443/service/services?xsd=3" uri="wsdl/dev.antechdiagnostics.com_443/service/services.xsd_3.xsd"/>
+    <system systemId="https://dev.antechdiagnostics.com:443/service/services?xsd=4" uri="wsdl/dev.antechdiagnostics.com_443/service/services.xsd_4.xsd"/>
+</catalog>
